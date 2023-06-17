@@ -2,7 +2,7 @@
   "name": "mod3todolist",
   "private": true,
   "version": "0.0.0",
- 
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,10 +14,8 @@
     "nodemon": "^2.0.22",
     "path": "^0.12.7",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "require": "^2.4.20",
-    "url": "^0.11.1",
-    "uuid": "^9.0.0"
+    "react-dom": "^18.2.0"
+ 
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
